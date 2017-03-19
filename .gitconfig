@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+#	user = Ben Matheja
+#	email = post@benmatheja.de 
+[user]
+	name = Ben Matheja
+	email = post@benmatheja.de
+[push]
+	default = matching
